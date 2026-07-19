@@ -38,4 +38,18 @@
     "link": "https://github.com/LeojGH",
     "avatar": "https://avatars.githubusercontent.com/u/84208864?v=4"
   }
+  {
+  "name": "عباس حازم",
+  "role": "Translator",
+  "languages": ["ar"],
+  "link": "https://github.com/i3BSKA",
+  "avatar": "https://github.com/i3BSKA.png"
+  }
+  {
+    "name": "",
+    "role": "Translator",
+    "languages": [""],
+    "link": "",
+    "avatar": ""
+  }
 ]
